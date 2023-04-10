@@ -1,4 +1,4 @@
-# Lomograpy
+# Lomograpy API
 
 It's just a simple way to make Lomography API requests easier.
 
