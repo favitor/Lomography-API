@@ -1,9 +1,9 @@
 # Lomograpy
 
-It's just a simple form to make Lomography API requests easier.
+It's just a simple way to make Lomography API requests easier.
 
 
-You can get yout API Key [here](<https://api.lomography.com/>)
+You can get your API Key [here](<https://api.lomography.com/>)
 
 
 
